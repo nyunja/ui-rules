@@ -13,11 +13,17 @@ This repo contains projects looking at graphic elements from various websites in
 ### 3. [**Accessibility website**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_AccessibiltyWebsite_01182025_V1.fig)
    - A design project analysing accessibilty of website for all people.
 
-### 4. [**Library For Climbing Addicts**](https://github.com/nyunja/atomic-design/blob/main/LibraryForClimbingAddicts_Paul_John.zip)
-   - A design project focused on creating a moodbard and a UI componnents library to rebrand a climbing group website.
+### 5. [**Breadcrumbs**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_Breadcrumbs_01182025_V1.fig)
+   - A project looking at the use of bread crumbs in various websites.
 
-### 4. [**Library For A Dating App**](https://github.com/nyunja/atomic-design/blob/main/LibraryForDatingApp_Paul_John.zip)
-   - A design project focused on creating a moodbard and a UI componnents library for a dating app.
+### 6. [**Toggle button**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_ToggleButton_01192025_V1.fig)
+   - Looking at the use of toggle buttons for accessibility across various sites.
+
+### 7. [**Radio button**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_RadioButtons_01192025_V1.fig)
+   - Looking at the use of radio buttons for accessibility across various sites.
+
+### 8. [**Calendar date picker**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_Calendars_01182025_V1.fig)
+   - Looking at the use of calendars for accessibility across various sites.
 
 ## Usage
 
