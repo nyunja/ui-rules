@@ -25,6 +25,10 @@ This repo contains projects looking at graphic elements from various websites in
 ### 8. [**Calendar date picker**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_Calendars_01182025_V1.fig)
    - Looking at the use of calendars for accessibility across various sites.
 
+### 9. [**Time pickers**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_TimePickers_01192025_V1.fig)
+   - Looking at the use of time pickers for accessibility across various sites.
+
+
 ## Usage
 
 To view or edit these `.fig` files:
