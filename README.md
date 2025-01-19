@@ -28,6 +28,12 @@ This repo contains projects looking at graphic elements from various websites in
 ### 9. [**Time pickers**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_TimePickers_01192025_V1.fig)
    - Looking at the use of time pickers for accessibility across various sites.
 
+### 10. [**Microinteractions**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_MicroInteractions_01192025_V1.fig)
+   - Looking at the use of microinteractions to provide useful feedback for accessibility across various sites.
+
+### 11. [**Consistency**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_Consistency_01192025_V1.fig)
+   - Looking at the use of consistency across various websites.
+
 
 ## Usage
 
