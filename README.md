@@ -13,7 +13,7 @@ This repo contains projects looking at graphic elements from various websites in
 ### 3. [**Accessibility website**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_AccessibiltyWebsite_01182025_V1.fig)
    - A design project analysing accessibilty of website for all people.
 
-### 3. [**Accessibility app**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_AccessibiltyApp_01182025_V1.fig)
+### 4. [**Accessibility app**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_AccessibiltyApp_01182025_V1.fig)
    - A quick look at acceble web apps.
 
 ### 5. [**Breadcrumbs**](https://github.com/nyunja/ui-rules/blob/main/Paul_John_Breadcrumbs_01182025_V1.fig)
